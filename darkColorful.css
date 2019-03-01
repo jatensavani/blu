@@ -34,7 +34,7 @@ A700 #2962FF
     --color-A400: #9d0b28;          /* Blue A400 */
     --color-purple: #105410;		    /* Blue A700 */
     
-    --color-dark-blue: #1a1a1a;
+    --color-dark-blue: #0D0E0E;
     --color-dark-red: #181818;
 
     --movie-overlay: radial-gradient(circle at 20% 50%, rgba(0, 0, 0, 1) 5.46%, rgba(21, 101, 192, 0.46));  /* Blue 800 */
@@ -81,17 +81,17 @@ body {
 }
 
 .hoe-right-header[hoe-color-type="header-bg5"] {
-    background: #000000;
+    background: #0d0e0e;
 }
 
 #hoeapp-container[hoe-color-type="lpanel-bg5"].hoe-minimized-lpanel #hoe-left-panel {
-    background: #000000;
+    background: #0d0e0e;
 }
 .ratio-bar {
-    background-color: #000000;
+    background-color: #0d0e0e;
 }
 .ratio-bar .badge-user {
-    background-color: #000000;  
+    background-color: #0d0e0e;  
 }
 
 .nav-tabs > #active {
