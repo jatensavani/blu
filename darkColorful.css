@@ -34,12 +34,12 @@ A700 #2962FF
     --color-A400: #9d0b28;          /* Blue A400 */
     --color-purple: #105410;		    /* Blue A700 */
     
-    --color-dark-blue: #000000;
+    --color-dark-blue: #1a1a1a;
     --color-dark-red: #181818;
 
     --movie-overlay: radial-gradient(circle at 20% 50%, rgba(0, 0, 0, 1) 5.46%, rgba(21, 101, 192, 0.46));  /* Blue 800 */
     --background-pipe: url("https://blutopia.xyz/img/pipes/blue.png");
-    --gradient-background: radial-gradient(at 30% top, #1a1a1a 0%, #081c24 70%);
+    --gradient-background: radial-gradient(at 30% top, #000000 0%, #081c24 70%);
 }
 
 body {
@@ -81,14 +81,14 @@ body {
 }
 
 .hoe-right-header[hoe-color-type="header-bg5"] {
-    background: #1a1a1a;
+    background: #000000;
 }
 
 #hoeapp-container[hoe-color-type="lpanel-bg5"].hoe-minimized-lpanel #hoe-left-panel {
-    background: #1a1a1a;
+    background: #000000;
 }
 .ratio-bar {
-    background-color: #1a1a1a;
+    background-color: #000000;
 }
 .ratio-bar .badge-user {
     background-color: #000000;  
